@@ -1,7 +1,7 @@
 body {
   max-width: 320px;
   margin: auto;
-  background: #ddd;
+  background: #cc0000;
 }
 
 img {
@@ -9,4 +9,10 @@ img {
   max-width: 100%;
 }
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6IV7472Hni7A1ENilCManS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+header, div {
+  background: #ff92ab;
+}
+
+h1, h2, h3 {
+  font-family: 'Bebas Neue', cursive;
+}
