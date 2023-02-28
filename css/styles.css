@@ -1,8 +1,10 @@
 body {
   max-width: 320px;
   margin: auto;
-  background: #cc0000;
-  color:#cc0000
+  background: #ff92ab;
+  color:#cc0000;
+  font-family: sans-serif;
+  font-size:15px;
 }
 
 img {
@@ -79,6 +81,27 @@ iframe {
 }
 
 .imagesdufilm {
-  border-left: solid 10px #cc0000;
-  border-right: solid 10px #cc0000;
+  border-left: solid 12px #cc0000;
+  border-right: solid 12px #cc0000;
+}
+
+.bandeson {
+  background-color:#cc0000;
+  color:#ff92ab;
+}
+
+.biographie {
+  background-color:#cc0000;
+  color:#ff92ab;
+}
+
+.bandeannonce {
+  background-color:#cc0000;
+  color:#ff92ab;
+}
+
+.footer {
+  border-left: solid 12px #cc0000;
+  border-right: solid 12px #cc0000;
+  text-align: center;
 }
