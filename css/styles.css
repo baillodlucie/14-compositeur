@@ -60,8 +60,9 @@ header nav {
 }
 
 header {
-  border-left: solid 10px #cc0000;
-  border-right: solid 10px #cc0000;
+  padding: 40px;
+  border-left: solid 12px #cc0000;
+  border-right: solid 12px #cc0000;
 }
 
 footer {
