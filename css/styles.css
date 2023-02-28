@@ -49,3 +49,36 @@ nav {
 header {
   padding: 40px;
 }
+
+header nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+}
+
+header {
+  border-left: solid 10px #cc0000;
+  border-right: solid 10px #cc0000;
+}
+
+footer {
+  font-weight: 500;
+}
+
+iframe {
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+
+.grandbudapesthotel {
+  border-left: solid 10px #cc0000;
+  border-right: solid 10px #cc0000;
+}
+
+.imagesdufilm {
+  border-left: solid 10px #cc0000;
+  border-right: solid 10px #cc0000;
+}
